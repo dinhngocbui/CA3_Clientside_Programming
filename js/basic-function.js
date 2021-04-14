@@ -1,0 +1,1 @@
+var msg = "Hello this is some testing message";
